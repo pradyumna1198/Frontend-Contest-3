@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    padding: 0;
+    margin: 0;
+}
+.cont2{
+    height:150px;
+    color:white;
+}
+.latLong{
+
+    color:aliceblue;
+}
+.maps{
+    height:300px;
+    background-color: #575A85;
+}
